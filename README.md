@@ -1,4 +1,5 @@
-# training-datasets
+# Training assets
+
 Various assets for training. Sources/notes:
 
 `wholesale_customers` source: [https://archive.ics.uci.edu/ml/datasets/wholesale+customers](https://archive.ics.uci.edu/ml/datasets/wholesale+customers)
