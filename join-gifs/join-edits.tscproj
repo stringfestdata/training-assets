@@ -90,7 +90,7 @@
     "sceneTrack" : {
       "scenes" : [
         {
-          "duration" : 10.0,
+          "duration" : 6.1,
           "title" : "",
           "type" : "",
           "csml" : {
@@ -101,36 +101,22 @@
                   {
                     "id" : 6,
                     "_type" : "VMFile",
-                    "src" : 4,
+                    "src" : 3,
                     "trackNumber" : 0,
                     "attributes" : {
-                      "ident" : "full-join"
-                    },
-                    "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : -1.99999999983974,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 1.10986775325728e-11,
-                        "interp" : "eioe"
-                      }
+                      "ident" : "right-join"
                     },
                     "effects" : [
 
                     ],
                     "start" : 0,
-                    "duration" : 300,
+                    "duration" : 183,
                     "mediaStart" : 0,
-                    "mediaDuration" : 300,
+                    "mediaDuration" : 183,
                     "scalar" : 1,
                     "metadata" : {
                       "WinSubProjectDisplayName" : "",
-                      "clipSpeedAttribute" : false,
-                      "default-translation0" : 0.0,
-                      "default-translation1" : 0.0
+                      "clipSpeedAttribute" : false
                     },
                     "animationTracks" : {
 
@@ -150,29 +136,17 @@
                       "ident" : "inner-join"
                     },
                     "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : 1.68967062563752e-11,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 355.000000000081,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 393.000000000046,
-                        "interp" : "linr"
-                      }
+                      "translation0" : 1.68967062563752e-11,
+                      "translation1" : 355.000000000081,
+                      "geometryCrop1" : 393.000000000046
                     },
                     "effects" : [
 
                     ],
                     "start" : 0,
-                    "duration" : 203,
+                    "duration" : 183,
                     "mediaStart" : 0,
-                    "mediaDuration" : 203,
+                    "mediaDuration" : 183,
                     "scalar" : 1,
                     "metadata" : {
                       "WinSubProjectDisplayName" : "",
@@ -243,7 +217,6 @@
                       "clipSpeedAttribute" : false,
                       "default-HAlign" : "center",
                       "default-VAlign" : "center",
-                      "default-text-attributes" : null,
                       "default-translation0" : 0.0,
                       "default-translation1" : 0.0
                     },
@@ -273,50 +246,18 @@
                       "kind" : "remix",
                       "shape" : "text",
                       "style" : "basic",
-                      "height" : {
-                        "type" : "double",
-                        "defaultValue" : 250.0,
-                        "interp" : "linr"
-                      },
-                      "width" : {
-                        "type" : "double",
-                        "defaultValue" : 400.0,
-                        "interp" : "linr"
-                      },
-                      "word-wrap" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
+                      "height" : 250.0,
+                      "width" : 400.0,
+                      "word-wrap" : 1.0,
                       "horizontal-alignment" : "center",
                       "text" : "Table B",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-green" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-red" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "size" : {
-                          "type" : "double",
-                          "defaultValue" : 64.0,
-                          "interp" : "linr"
-                        },
-                        "tracking" : {
-                          "type" : "double",
-                          "defaultValue" : 0.0,
-                          "interp" : "linr"
-                        },
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -336,16 +277,8 @@
                       "autoRotateText" : true
                     },
                     "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : 134.000000000118,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 125.000000000043,
-                        "interp" : "eioe"
-                      }
+                      "translation0" : 134.000000000118,
+                      "translation1" : 125.000000000043
                     },
                     "effects" : [
 
@@ -360,7 +293,6 @@
                       "clipSpeedAttribute" : false,
                       "default-HAlign" : "center",
                       "default-VAlign" : "center",
-                      "default-text-attributes" : null,
                       "default-translation0" : 0.0,
                       "default-translation1" : 0.0
                     },
@@ -390,50 +322,18 @@
                       "kind" : "remix",
                       "shape" : "text",
                       "style" : "basic",
-                      "height" : {
-                        "type" : "double",
-                        "defaultValue" : 250.0,
-                        "interp" : "linr"
-                      },
-                      "width" : {
-                        "type" : "double",
-                        "defaultValue" : 456.000000000071,
-                        "interp" : "linr"
-                      },
-                      "word-wrap" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
+                      "height" : 250.0,
+                      "width" : 456.000000000071,
+                      "word-wrap" : 1.0,
                       "horizontal-alignment" : "center",
                       "text" : "RIGHT OUTER JOIN",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-green" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-red" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "size" : {
-                          "type" : "double",
-                          "defaultValue" : 64.0,
-                          "interp" : "linr"
-                        },
-                        "tracking" : {
-                          "type" : "double",
-                          "defaultValue" : 0.0,
-                          "interp" : "linr"
-                        },
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -443,7 +343,7 @@
                           {
                             "endTime" : 0,
                             "time" : 0,
-                            "value" : [{"name":"fontSize","rangeEnd":16,"rangeStart":0,"value":50,"valueType":"double"},{"name":"fontItalic","rangeEnd":16,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":16,"rangeStart":0,"value":"Consolas","valueType":"string"},{"name":"underline","rangeEnd":16,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":16,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fgColor","rangeEnd":16,"rangeStart":0,"value":"(35,40,47,255)","valueType":"color"},{"name":"strikethrough","rangeEnd":16,"rangeStart":0,"value":0,"valueType":"int"}],
+                            "value" : [{"name":"underline","rangeEnd":16,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":16,"rangeStart":0,"value":"Consolas","valueType":"string"},{"name":"strikethrough","rangeEnd":16,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":16,"rangeStart":0,"value":50,"valueType":"double"},{"name":"fontItalic","rangeEnd":16,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":16,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fgColor","rangeEnd":16,"rangeStart":0,"value":"(35,40,47,255)","valueType":"color"}],
                             "duration" : 0
                           }
                         ]
@@ -453,47 +353,29 @@
                       "autoRotateText" : true
                     },
                     "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : -1.99999999993962,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 202.000000000033,
-                        "interp" : "eioe"
-                      }
+                      "translation0" : -1.99999999993962,
+                      "translation1" : 202.000000000033
                     },
                     "effects" : [
 
                     ],
                     "start" : 0,
-                    "duration" : 75,
+                    "duration" : 183,
                     "mediaStart" : 0,
-                    "mediaDuration" : 75,
+                    "mediaDuration" : 183,
                     "scalar" : 1,
                     "metadata" : {
                       "WinSubProjectDisplayName" : "",
                       "clipSpeedAttribute" : false,
                       "default-HAlign" : "center",
                       "default-VAlign" : "center",
-                      "default-text-attributes" : null,
+                      "default-text-attributes" : "[{\"name\":\"fontSize\",\"rangeEnd\":16,\"rangeStart\":0,\"value\":50,\"valueType\":\"double\"},{\"name\":\"fontItalic\",\"rangeEnd\":16,\"rangeStart\":0,\"value\":0,\"valueType\":\"int\"},{\"name\":\"fontName\",\"rangeEnd\":16,\"rangeStart\":0,\"value\":\"Consolas\",\"valueType\":\"string\"},{\"name\":\"underline\",\"rangeEnd\":16,\"rangeStart\":0,\"value\":0,\"valueType\":\"int\"},{\"name\":\"fontWeight\",\"rangeEnd\":16,\"rangeStart\":0,\"value\":400,\"valueType\":\"int\"},{\"name\":\"fgColor\",\"rangeEnd\":16,\"rangeStart\":0,\"value\":\"(35,40,47,255)\",\"valueType\":\"color\"},{\"name\":\"strikethrough\",\"rangeEnd\":16,\"rangeStart\":0,\"value\":0,\"valueType\":\"int\"}]",
                       "default-translation0" : 0.0,
                       "default-translation1" : 0.0
                     },
                     "animationTracks" : {
 
                     }
-                  }
-                ],
-                "transitions" : [
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 10
                   }
                 ]
               },
