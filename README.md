@@ -12,5 +12,7 @@ Various assets for training. Sources/notes:
 
 `housing` source: [https://rdrr.io/cran/Ecdat/man/Housing.html](https://rdrr.io/cran/Ecdat/man/Housing.html). I added a `neighborhood` field randomly using the categories from the [Kaggle house prices dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data). 
 
+`tips` source: https://github.com/mwaskom/seaborn-data/blob/master/tips.csv
+
 JOIN animations repurposed from Garrick Aden-Buie's [`tidyexplain` repo](https://github.com/gadenbuie/tidyexplain#mutating-joins).
 
