@@ -1,0 +1,16 @@
+﻿Employee ID,First Name,Last Name,Department,Location,Hire Date,Job Title,Email Address
+1001,John,Doe,Finance,New York,43252,Financial Analyst,johndoe@examplecorp.com
+1002,Jane,Smith,HR,San Francisco,43539,HR Manager,janesmith@examplecorp.com
+1003,Alex,Johnson,IT,Chicago,44075,Network Engineer,alexjohnson@examplecorp.com
+1004,Maria,Garcia,Marketing,New York,43073,Social Media Mgr,mariagarcia@examplecorp.com
+1005,James,Brown,Sales,Miami,44339,Sales Representative,jamesbrown@examplecorp.com
+1006,Linda,Martinez,Finance,San Francisco,43423,Accountant,lindamartinez@examplecorp.com
+1007,Michael,Wilson,HR,Chicago,44237,Recruiter,michaelwilson@examplecorp.com
+1008,Sarah,Davis,IT,New York,43661,Software Engineer,sarahdavis@examplecorp.com
+1009,Robert,Lee,Marketing,Miami,43981,Marketing Analyst,robertlee@examplecorp.com
+1010,Laura,Kim,Sales,San Francisco,42747,Sales Manager,laurakim@examplecorp.com
+1011,Peter,Clark,Finance,Chicago,44430,Financial Manager,peterclark@examplecorp.com
+1012,Emma,Lewis,HR,New York,43164,HR Assistant,emmalewis@examplecorp.com
+1013,David,Walker,IT,San Francisco,43763,IT Support,davidwalker@examplecorp.com
+1014,Amy,Young,Marketing,Chicago,42996,Content Strategist,amyyoung@examplecorp.com
+1015,Richard,King,Sales,New York,44144,Account Executive,richardking@examplecorp.com
